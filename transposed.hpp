@@ -1,6 +1,6 @@
 #pragma once
 
-#define N 2000
+#define N 1000
 
 double res[N][N];
 double mul1[N][N];
